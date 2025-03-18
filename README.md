@@ -1,0 +1,1 @@
+This project analyzes physical fitness data to classify individuals into performance categories (A, B, C, D) based on various physical and physiological measurements. The analysis includes data preprocessing, exploratory data analysis, statistical testing, and the development of classification models.
